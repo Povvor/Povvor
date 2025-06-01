@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Povvor/Povvor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌊 Ahoy! I'm Vladimir (@povvor)
 
-Here are some ideas to get you started:
+Welcome to my learning space on GitHub! 👨‍💻  
+I'm a former **navigator on merchant ships** 🛳️ with **2 years of experience at sea**, now exploring a new course in the world of **IT and development** 💡💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚓ From Ships to Scripts
+
+After two years of guiding vessels across oceans, I've decided to drop anchor in a new field — **tech and programming**.  
+Here I’m learning the ropes of:
+
+- 🔧 Git & GitHub basics  
+- 💡 Markdown formatting  
+- 🧪 Writing and testing simple code  
+- 🗺️ Navigating the world of software development
+
+---
