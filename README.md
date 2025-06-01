@@ -1,5 +1,5 @@
 
-## 🌊 Ahoy! I'm Vladimir (@povvor)
+## 🌊 Ahoy! I'm Vladimir 26YO (@povvor)
 
 Welcome to my learning space on GitHub! 👨‍💻  
 I'm a former **navigator on merchant ships** 🛳️ with **2 years of experience at sea**, now exploring a new course in the world of **IT and development** 💡💻
